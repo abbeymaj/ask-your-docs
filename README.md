@@ -1,1 +1,1 @@
-# Query for Documents using RAG
+# Query your Documents using RAG
